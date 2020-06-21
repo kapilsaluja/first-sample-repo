@@ -20,10 +20,10 @@
             <div class="content-body">
                 <div class="success-text">Success!</div>
 <<<<<<< HEAD
-                <div class="description line-1"> Azure DevOps Project has been successfully setup</div>
+                <div class="description line-1"> Azure DevOps Project has been successfully setup for merge demo 2</div>
                 <div class="description line-2"> Your HTML app is up and running on Azure for merge demo from brnach 2</div>
 =======
-                <div class="description line-1"> Azure DevOps Project has been successfully setup for merge demo 1</div>
+                <div class="description line-1"> Azure DevOps Project has been successfully setup for merge demo 3 from subbranch</div>
                 <div class="description line-2"> Your HTML app is up and running on Azure</div>
 >>>>>>> demo2
                 <div class="next-steps-container">
