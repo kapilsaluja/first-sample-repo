@@ -1,1 +1,2 @@
 sample file no 3
+to show the diffrences between working and staging 
